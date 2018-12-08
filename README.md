@@ -7,7 +7,8 @@ Programa em python para monitorar as atividades no pastebin
 - Implementar busca recursiva
 - Implementar Deduplicação de links. 
 - Implementar Notificação. 
-- Parametrizar o programa para que o usuário possa determinar a analise à quanto tempo retroativo. 
+- Parametrizar o programa para que o usuário possa determinar a analise à quanto tempo retroativo.
+- Tratamento de erros em casos de falhas de redirecionamento ou server-side quaisquer que seja.
 - sei lá meo
 
 ###### Fontes/Recursos/Uteis
