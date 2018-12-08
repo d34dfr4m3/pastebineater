@@ -9,3 +9,6 @@ Programa em python para monitorar as atividades no pastebin
 - Implementar Notificação. 
 - Parametrizar o programa para que o usuário possa determinar a analise à quanto tempo retroativo. 
 - sei lá meo
+
+###### Fontes/Recursos/Uteis
+- https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters
