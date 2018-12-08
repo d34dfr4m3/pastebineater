@@ -12,3 +12,4 @@ Programa em python para monitorar as atividades no pastebin
 
 ###### Fontes/Recursos/Uteis
 - https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters
+- https://github.com/kevthehermit/PasteHunter
