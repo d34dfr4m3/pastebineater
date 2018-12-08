@@ -3,7 +3,7 @@ Programa em python para monitorar as atividades no pastebin
 
 ## TO DO 
 - Resolver problema de bloqueio.
- - Seja por meio de uma pool de proxys ou empregando a API do pastebin, necessário avaliar precisão.
+  - Seja por meio de uma pool de proxys ou empregando a API do pastebin, necessário avaliar precisão.
 - Implementar busca recursiva
 - Implementar Deduplicação de links. 
 - Implementar Notificação. 
